@@ -22,3 +22,10 @@ docs/site/
 # committed for packages, but should be committed for applications that require a static
 # environment.
 Manifest.toml
+
+# Test xyz file
+perylene-both-md-04.xyz
+
+# Output files
+guest_trajectory.xyz
+host_trajectory.xyz
